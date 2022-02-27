@@ -1,0 +1,9 @@
+body {
+    font-size: 15pt;
+}
+#box{
+  column-count:3;
+  column-width:34px;
+  column-rule-style:solid;
+  column-rule-color:red;
+}
